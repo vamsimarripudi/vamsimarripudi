@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I'm learning MERN Stack development.<br>Co-operation is simply splitting up the work and getting it done.<br>if you have a moment. I'd appreciate your work.<br>An Aspiring MERN stack developer.<br>Could you ask me about JAVASCRIPT?<br>when I was a little kid, I wanted to be an SDE.
+MERN Stack developer.<br>Co-operation is simply splitting up the work and getting it done.<br>if you have a moment. I'd appreciate your work.<br>An Aspiring MERN stack developer.<br>Could you ask me about JAVASCRIPT?<br>when I was a little kid, I wanted to be an SDE.
 
 
 ## 🌐 Socials:
