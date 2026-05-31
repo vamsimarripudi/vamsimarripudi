@@ -1,24 +1,249 @@
-# 💫 About Me:
-MERN Stack developer.<br>Co-operation is simply splitting up the work and getting it done.<br>if you have a moment. I'd appreciate your work.<br>An Aspiring MERN stack developer.<br>Could you ask me about JAVASCRIPT?<br>when I was a little kid, I wanted to be an SDE.
+<div align="center">
 
+# Vamsi Marripudi
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsimarripudi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/myselfvamsi27) 
+### Full Stack Engineer • SaaS Builder • AI-Powered Product Developer
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vamsimarripudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vamsimarripudi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsimarripudi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Building scalable products, intelligent systems, and cloud-native platforms.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+<a href="https://www.linkedin.com/in/vamsimarripudi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vamsimarripudi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://x.com/myselfvamsi27">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:enquiry.portfolio@vamsimarripudi.tech">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=vamsimarripudi\&label=Profile+Views\&color=0e75b6\&style=flat)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vamsimarripudi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+I'm a Full Stack Engineer focused on building production-grade SaaS products, AI-powered experiences, and scalable cloud architectures.
+
+My work combines frontend engineering, backend systems, cloud infrastructure, observability, authentication architecture, AI integrations, and product thinking.
+
+Currently focused on:
+
+* SaaS Product Engineering
+* AI-Powered Systems
+* Cloud Infrastructure
+* System Design
+* Performance Optimization
+* Real-Time Applications
+* Developer Experience
+* Product-Based Engineering
+
+---
+
+# Currently Building
+
+## 🚀 VMetron
+
+AI-Powered Event Management & Operations Platform
+
+### Core Systems
+
+* Pulse Authentication Architecture
+* AI-Assisted Multilingual Onboarding
+* Role-Based Access Control
+* Real-Time Event Operations
+* Organizer Dashboard
+* Developer Portal
+* Admin Control Center
+* Analytics & Reporting
+* Observability Platform
+* CDN Asset Infrastructure
+* AWS Cloud Deployment
+
+### Engineering Highlights
+
+* Multi-Domain Frontend Architecture
+* Backend-Driven Dynamic Workflows
+* Secure Authentication Ecosystem
+* Scalable SaaS Infrastructure
+* Enterprise Style Permissions Model
+
+---
+
+## 🚀 Nexora
+
+Intelligent Event Operations Ecosystem
+
+### Key Features
+
+* Living Profiles
+* AI Summaries
+* Smart Insights
+* Activity Timelines
+* Real-Time Collaboration
+* Intelligent Analytics
+* Performance Monitoring
+* Product Intelligence
+
+---
+
+# Tech Stack
+
+## Frontend
+
+```text
+React.js
+JavaScript (ES6+)
+HTML5
+CSS3
+Styled Components
+Context API
+Responsive Design
+Progressive Web Apps
+```
+
+## Backend
+
+```text
+Node.js
+Express.js
+REST APIs
+JWT Authentication
+RBAC Systems
+Middleware Architecture
+Email Systems
+File Upload Systems
+```
+
+## Databases
+
+```text
+MongoDB
+MySQL
+CockroachDB
+```
+
+## Cloud & DevOps
+
+```text
+AWS EC2
+AWS S3
+AWS Parameter Store
+Nginx
+PM2
+Linux
+Git
+GitHub
+CI/CD
+```
+
+## AI & Automation
+
+```text
+OpenAI
+AI Assistants
+Translation Engines
+Prompt Engineering
+Intelligent Workflows
+Automation Systems
+```
+
+## Product & Design
+
+```text
+Figma
+UX Engineering
+Glassmorphism Systems
+Design Systems
+Product Thinking
+```
+
+---
+
+# What I Enjoy Building
+
+* SaaS Platforms
+* AI Products
+* Developer Tools
+* Dashboard Systems
+* Authentication Platforms
+* Analytics Systems
+* Real-Time Applications
+* Scalable Architectures
+
+---
+
+# Engineering Achievements
+
+✅ Built enterprise-style authentication systems
+
+✅ Designed AI-assisted onboarding ecosystems
+
+✅ Developed production-ready SaaS architecture
+
+✅ Implemented observability & monitoring platforms
+
+✅ Created cloud-native deployment infrastructures
+
+✅ Built role-based access control systems
+
+✅ Integrated AI-powered workflows
+
+✅ Developed intelligent profile ecosystems
+
+✅ Architected multi-domain frontend platforms
+
+---
+
+# GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=vamsimarripudi\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vamsimarripudi\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsimarripudi\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 2026 Roadmap
+
+* Launch VMetron
+* Scale AI-powered onboarding
+* Build globally used SaaS products
+* Master advanced system design
+* Contribute to open source
+* Join a world-class product engineering team
+
+---
+
+# Developer Philosophy
+
+```javascript
+const growth = () => {
+  while (true) {
+    learn();
+    build();
+    ship();
+    improve();
+  }
+};
+
+growth();
+```
+
+---
+
+> Great products are built by engineers who understand users, systems, and scale.
+
+---
+
+### Fun Fact
+
+When I was a kid, I wanted to become a Software Development Engineer.
+
+Today, I'm building products that move me closer to that goal every day.
